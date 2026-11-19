@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WorldMapHelper_Core": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Rob\\Celeste\\Development Fresh Install\\Celeste.exe"
+    }
+  }
+}
